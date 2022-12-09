@@ -1,0 +1,8 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+
+@openzeppelin=lib/openzeppelin-contracts
+
+@uniswapv2=src/src-0_6_x/uniswapv2
+
+@layerzerolabs=lib/solidity-examples/contracts
